@@ -5,6 +5,7 @@
  *         Animal shelter
  *
  */
+
 public class AnimalShelter {
 
 	private String shelteName;
