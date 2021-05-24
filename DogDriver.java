@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/**
+ * 
+ * @author TOON001
+ *Driver class to test Dog class and Animal Shelter
+ */
 public class DogDriver {
 
 	public static void main(String[] args) {
